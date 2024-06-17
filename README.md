@@ -137,14 +137,6 @@ npm run start
 
 ```
 
-## Contact me
-
-- Contact me by Email: [m.faisal244@gmail.com](mailto:m.faisal244@gmail.com)
-
-- [Connect with me on linkedin](https://www.linkedin.com/in/faisal244/)
-
-- [View my Portfolio](https://faisal244.github.io/Portfolio/)
-
 ## My Development Environment
 
 - VScode
