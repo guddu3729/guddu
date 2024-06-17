@@ -97,15 +97,6 @@ As the image illustrates, your schema should contain the following three tables:
 
   - `manager_id`: `INT` to hold reference to another employee that is the manager of the current employee (`null` if the employee has no manager)
 
-## Installation
-
-The application will be invoked by entering the following 3 commands line by line into your terminal / CLI
-
-```
-
-git clone git@github.com:faisal244/sql-employee-management-system.git
-cd sql-employee-management-system
-npm install
 
 ```
 
